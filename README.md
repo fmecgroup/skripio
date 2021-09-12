@@ -1,3 +1,4 @@
+![Skripio logo](/logo/logo-128.svg)
 # What is skripio?
 **Skripio** is a set of UI **components** designed and built for [1C:Enterprise](https://www.1ci.com/developers/) platform. 
 
