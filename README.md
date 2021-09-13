@@ -31,5 +31,5 @@ TODO:
 
 # Contribute
 
-[Contribute 1C](https://github.com/fmecgroup/skripio-intro/blob/master/CONTRIBUTE1C.MD) - Guide to contribute to the project in case you are a [1C:Enterprise](https://www.1ci.com/developers/) developer.  
-[Contribute JS](https://github.com/fmecgroup/skripio-intro/blob/master/CONTRIBUTEJS.MD) - Guide to contribute to the project in case you are a [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) developer.
+[Contribute 1C](https://github.com/fmecgroup/skripio-intro/blob/master/CONTRIBUTE1C.MD) - Guide to contribute to [1C:Enterprise](https://www.1ci.com/developers/) codebase.  
+[Contribute JS](https://github.com/fmecgroup/skripio-intro/blob/master/CONTRIBUTEJS.MD) - Guide to contribute to [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) codebase.
